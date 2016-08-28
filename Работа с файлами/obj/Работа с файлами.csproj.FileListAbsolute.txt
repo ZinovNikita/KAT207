@@ -1,0 +1,8 @@
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\bin\Debug\Работа с файлами.exe
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\bin\Debug\Работа с файлами.pdb
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\obj\Debug\Работа_с_файлами.Form1.resources
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\obj\Debug\Работа_с_файлами.Properties.Resources.resources
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\obj\Debug\Работа с файлами.csproj.GenerateResource.Cache
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\obj\Debug\Работа с файлами.exe
+C:\Documents and Settings\pi214sz\Рабочий стол\Работа с файлами\obj\Debug\Работа с файлами.pdb
