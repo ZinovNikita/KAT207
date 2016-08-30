@@ -60,7 +60,8 @@ namespace Работа_с_файлами
                         if (Glas.Contains(Convert.ToString(s[i])))
                             if (Glas.Contains(Convert.ToString(s[i + 1])))
                                 k_wordsglas++;
-                        State = false;
+                        if (!specsymbols.Contains(Convert.ToString(s[i])))
+                            State = false;
                     }
                     else
                         if (specsymbols.Contains(Convert.ToString(s[i])))
